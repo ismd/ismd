@@ -138,7 +138,7 @@ def render(today):
         if i == 0:
             line = f'<tspan class="h">{"".join(c.ljust(w) for c, w in zip((name, stack, status), cols))}{age}</tspan>'
         else:
-            state = "s" if status == "Running" else "c"
+            state = "s" if status == "Running" else "d"
             line = (f'<tspan class="v">{escape(name.ljust(cols[0]))}</tspan>'
                     f'<tspan class="p">{stack.ljust(cols[1])}</tspan>'
                     f'<tspan class="{state}">{status.ljust(cols[2])}</tspan>'
@@ -174,6 +174,7 @@ def render(today):
     .c {{ fill: {MUTED}; font-style: italic; }}
     .s {{ fill: {LIME}; font-weight: 700; }}
     .h {{ fill: {MUTED}; }}
+    .d {{ fill: {MUTED}; }}
     rect.typing-cursor, rect.unfocus, rect.blink {{ fill: {LIME}; fill-opacity: 0.9; stroke: {LIME}; stroke-width: 1; }}
     /* Unfocused panes show a hollow cursor, like a real terminal. */
     rect.cursor-1 {{ fill-opacity: 0; animation: focus 0s {focus:.2f}s forwards; }}

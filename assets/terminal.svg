@@ -22,6 +22,7 @@
     .c { fill: #9d94b1; font-style: italic; }
     .s { fill: #d6f578; font-weight: 700; }
     .h { fill: #9d94b1; }
+    .d { fill: #9d94b1; }
     rect.typing-cursor, rect.unfocus, rect.blink { fill: #d6f578; fill-opacity: 0.9; stroke: #d6f578; stroke-width: 1; }
     /* Unfocused panes show a hollow cursor, like a real terminal. */
     rect.cursor-1 { fill-opacity: 0; animation: focus 0s 3.50s forwards; }
@@ -103,7 +104,7 @@
 <g class="out" style="animation-delay:5.25s" transform="translate(0 189)"><text x="432.0" xml:space="preserve"><tspan class="v">hugo-theme-vng-blue  </tspan><tspan class="p">hugo     </tspan><tspan class="s">Running    </tspan><tspan class="v">637d</tspan></text></g>
 <g class="out" style="animation-delay:5.30s" transform="translate(0 210)"><text x="432.0" xml:space="preserve"><tspan class="v">coding-overhead.com  </tspan><tspan class="p">hugo     </tspan><tspan class="s">Running    </tspan><tspan class="v">2y14d</tspan></text></g>
 <g class="out" style="animation-delay:5.35s" transform="translate(0 231)"><text x="432.0" xml:space="preserve"><tspan class="v">dotfiles             </tspan><tspan class="p">chezmoi  </tspan><tspan class="s">Running    </tspan><tspan class="v">311d</tspan></text></g>
-<g class="out" style="animation-delay:5.40s" transform="translate(0 252)"><text x="432.0" xml:space="preserve"><tspan class="v">screenshotgun        </tspan><tspan class="p">c++/qt   </tspan><tspan class="c">Completed  </tspan><tspan class="v">12y</tspan></text></g>
+<g class="out" style="animation-delay:5.40s" transform="translate(0 252)"><text x="432.0" xml:space="preserve"><tspan class="v">screenshotgun        </tspan><tspan class="p">c++/qt   </tspan><tspan class="d">Completed  </tspan><tspan class="v">12y</tspan></text></g>
   <g class="appear" style="animation-delay:5.55s" transform="translate(0 273)">
     <text class="prompt" x="432">$</text>
     <rect class="blink" style="animation-delay:5.55s" x="448.8" y="-13" width="8.4" height="17"/>
