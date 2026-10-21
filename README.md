@@ -12,10 +12,10 @@ I'm **Vladimir Kostelei**, known online as **ismd**. Software/Platform engineer 
 
 ### Side Projects
 
+- ✍️ [Coding Overhead](https://coding-overhead.com) — My blog about programming, Linux and DevOps
 - 🗂️ [preview-tab.el](https://github.com/ismd/preview-tab.el) — VS Code's preview tab, for Emacs. On [MELPA](https://melpa.org/#/preview-tab)
 - 🏴 [blackarch-docker](https://github.com/ismd/blackarch-docker) — The BlackArch pentest toolkit in a container: a terminal, or a full desktop in the browser. 9k+ pulls on [Docker Hub](https://hub.docker.com/r/ismd/blackarch)
 - 🎨 [hugo-theme-vng-blue](https://github.com/ismd/hugo-theme-vng-blue) — Hugo blog theme with a perfect Lighthouse score, tag filtering and 30+ social icons. Listed in [Hugo Themes](https://themes.gohugo.io/themes/hugo-theme-vng-blue/)
-- ✍️ [Coding Overhead](https://coding-overhead.com) — My blog about programming, Linux and DevOps, in English and Russian
 - 🐧 [dotfiles](https://github.com/ismd/dotfiles) — Arch Linux + Hyprland, managed with chezmoi
 - 📸 [screenshotgun](https://github.com/ismd/screenshotgun) — Cross-platform screenshot tool with cloud upload, C++/Qt. Retired after a good run
 
