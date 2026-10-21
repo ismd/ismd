@@ -2,7 +2,7 @@
 
 ## Hi, I'm Vladimir 👋
 
-I'm **Vladimir Kostelei**, known online as **ismd**. Software/Platform engineer somewhere on the Internet. Yandex was the biggest chapter of my career: eight years as a tech lead on Yandex Cloud and Yandex News.
+I'm **Vladimir Kostelei**, known online as **ismd**, a software/platform engineer somewhere on the Internet. The biggest chapter of my career so far was Yandex: eight years as a tech lead, first on Yandex News, then on Yandex Cloud.
 
 **I build software and the platforms behind it.**
 
