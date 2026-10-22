@@ -152,7 +152,7 @@ def render(today):
     content = "\n".join(body)
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" viewBox="0 0 {W} {h}" role="img" aria-labelledby="title desc">
   <title id="title">$ kubectl get engineer ismd</title>
-  <desc id="desc">Vladimir Kostelei: software/platform engineer somewhere on the Internet, eight years at Yandex as a tech lead, CKA-certified. Projects: {", ".join(p[0] for p in PROJECTS)}.</desc>
+  <desc id="desc">Vladimir Kostelei: software engineer who builds platforms, eight years at Yandex as a tech lead, CKA-certified. Projects: {", ".join(p[0] for p in PROJECTS)}.</desc>
   <defs>
     <radialGradient id="glow-lilac" cx="0.94" cy="0.08" r="0.62">
       <stop offset="0" stop-color="#9680ce" stop-opacity="0.22"/>

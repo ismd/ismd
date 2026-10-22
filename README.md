@@ -1,8 +1,8 @@
-<a href="https://ismd.dev"><img src="assets/terminal.svg" alt="A terminal running kubectl get engineer ismd: Vladimir Kostelei, software/platform engineer, eight years at Yandex as a tech lead"></a>
+<a href="https://ismd.dev"><img src="assets/terminal.svg" alt="A terminal running kubectl get engineer ismd: Vladimir Kostelei, software engineer, eight years at Yandex as a tech lead"></a>
 
 ## Hi, I'm Vladimir 👋
 
-I'm **Vladimir Kostelei**, known online as **ismd**, a software/platform engineer somewhere on the Internet. The biggest chapter of my career so far was Yandex: eight years as a tech lead, first on Yandex News, then on Yandex Cloud.
+I'm **Vladimir Kostelei**, known online as **ismd**, a software engineer somewhere on the Internet. The biggest chapter of my career so far was Yandex: eight years as a tech lead, first on Yandex News, then on Yandex Cloud.
 
 **I build software and the platforms behind it.**
 
