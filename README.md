@@ -22,11 +22,9 @@ I'm **Vladimir Kostelei**, known online as **ismd**, a software engineer somewhe
 ### Latest Posts
 
 <!-- posts:start -->
+- [My CTF setup: BlackArch in Docker](https://coding-overhead.com/posts/blackarch-docker/) · 2026-11-15
 - [Adding DNS Records on Keenetic Routers](https://coding-overhead.com/posts/keenetic-dns-records/) · 2026-10-20
-- [\[RU\] SSH — безопасный доступ к удалённым серверам](https://coding-overhead.com/posts/ssh/) · 2026-03-13
-- [\[RU\] WebAuthn и Passkeys — аутентификация без паролей](https://coding-overhead.com/posts/webauthn-passkeys/) · 2026-02-18
-- [\[RU\] MFA — многофакторная аутентификация](https://coding-overhead.com/posts/mfa/) · 2026-02-17
-- [\[RU\] nohup — процессы, которые не умирают](https://coding-overhead.com/posts/nohup/) · 2025-12-16
+- [Python Cheat Sheet](https://coding-overhead.com/posts/python-cheat-sheet/) · 2025-08-21
 <!-- posts:end -->
 
 ### Find Me
